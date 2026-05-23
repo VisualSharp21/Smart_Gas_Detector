@@ -1,7 +1,7 @@
 # Smart_Gas_Detector
-Sistema inteligente de monitoramento e detecção de vazamento de gás com ESP32, Firebase e alertas no Telegram
+Sistema inteligente de monitoramento e detecção de vazamento de gás com ESP32, Firebase e alertas no Telegram.
 
-Garantir segurança preventiva contra acidentes domésticos, permitindo o monitoramento em tempo real dos níveis de gás inflamável no ambiente e enviando notificações críticas diretamente para o smartphone do usuário.
+disciplina de projetos de engenharia I feito pela equipe vigilante do fogão com objetivo de garantir segurança preventiva contra acidentes domésticos, permitindo o monitoramento em tempo real dos níveis de gás inflamável no ambiente e enviando notificações críticas diretamente para o smartphone do usuário.
 
 O sistema foi desenvolvido utilizando uma arquitetura que integra hardware, backend e banco de dados em tempo real:
 Microcontrolador:ESP32 programado em C/C++
